@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '33304'
     url: http://www.gutenberg.org/2009/agents/33304
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28388#The-Wreck-on-the-Andamans
 gutenberg_issued: '2009-03-22'
 gutenberg_type: Text
 identifiers:
